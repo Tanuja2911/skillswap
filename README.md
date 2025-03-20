@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillswapFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# skillswap
+SkillSwap is a web platform where users can exchange skills and learn from one another. Users can register, showcase their skills, and connect with others to swap knowledge.
+>>>>>>> 286609a98a7423541915f70e535abc7b40be8615
